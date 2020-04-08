@@ -9,3 +9,5 @@ client.on("message", msg => {
   }
 })
 
+client.logon("Njk3NTAyOTE2Mjk0MDgyNjAy.Xo4PEA.hnbNSDEYBfcooK3I_Phev75c_J0")
+
