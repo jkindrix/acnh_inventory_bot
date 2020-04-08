@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jkindrix/acnh_inventory_bot/issues"
   },
-  "homepage": "https://github.com/jkindrix/acnh_inventory_bot#readme"
+  "homepage": "https://github.com/jkindrix/acnh_inventory_bot#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
 }
