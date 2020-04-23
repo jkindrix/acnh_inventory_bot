@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/jkindrix/acnh_inventory_bot#readme",
   "dependencies": {
-    "discord.js": "^12.1.1"
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
