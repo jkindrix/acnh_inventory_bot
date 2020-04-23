@@ -11,5 +11,5 @@ client.on("message", msg => {
   }
 })
 
-client.logon(config.token)
+client.login(config.token)
 
